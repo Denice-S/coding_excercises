@@ -1,4 +1,4 @@
-# Birthday work
+# Extension activity- Birthday work
 # What day of the week were you born on? Do you know?
 # Here's a way to find out.
 # For example, if your date of birth was 6 July 1989 :
